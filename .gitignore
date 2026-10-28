@@ -41,3 +41,11 @@ example
 # generated native folders
 /ios
 /android
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# SDK backup files
+package-lock.sdk57-backup.json
